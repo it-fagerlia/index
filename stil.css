@@ -1,0 +1,44 @@
+body {
+	background-color: Moccasin;
+}
+
+h1,h2,h3{
+	color: blue;
+}
+
+a {
+	font-size: 1.10em ;
+}
+#spill {
+	position: relative;
+	float: left;
+	width: 150px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-style: solid;
+	padding: 15px;
+}
+#simulatorer {
+	position: relative;
+	float: left;
+	width: 150px;
+	margin-left:20px;
+	border-style: solid;
+	padding: 15px;
+}
+#animasjon {
+	position: relative;
+	float: left;
+	width: 150px;
+	margin-left:20px;
+	border-style: solid;
+	padding: 15px;
+}
+#læring {
+	position: relative;
+	float: left;
+	width: 150px;
+	margin-left:20px;
+	border-style: solid;
+	padding: 15px;
+}
